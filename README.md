@@ -1,6 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+my+name+is+Spencer)](https://git.io/typing-svg)
-<br>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I'm+a+blockchain+software+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+👋👋;+My+name+is+Spencer;I'm+a+blockchain+software+developer;&duration=9000)](https://git.io/typing-svg)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SpencerMiller23&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
