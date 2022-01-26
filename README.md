@@ -1,6 +1,4 @@
-### Hi there 👋
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hey,+👋+👋+👋;I'm+Spencer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I'm+Spencer;I'm+a+blockchain+developer)](https://git.io/typing-svg)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SpencerMiller23&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
