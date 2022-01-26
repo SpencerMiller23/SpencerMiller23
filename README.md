@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I'm+Spencer;I'm+a+blockchain+/+full-stack+developer&duration=9000&multiline=true)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I'm+Spencer;I'm+a+blockchain+developer&duration=9000&multiline=true)](https://git.io/typing-svg)
 
 <br><br>
 
